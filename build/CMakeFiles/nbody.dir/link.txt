@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/nbody.dir/src/main.cpp.o CMakeFiles/nbody.dir/external/glad/src/glad.c.o -o nbody  -Wl,-rpath,/opt/homebrew/lib /opt/homebrew/lib/libglfw.3.4.dylib -framework OpenGL

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/soham/projects/nbody-sim/build",
+  "command": "/usr/bin/clang++  -I/Users/soham/projects/nbody-sim/external/glad/include -I/Users/soham/projects/nbody-sim/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/nbody.dir/src/main.cpp.o -c /Users/soham/projects/nbody-sim/src/main.cpp",
+  "file": "/Users/soham/projects/nbody-sim/src/main.cpp",
+  "output": "CMakeFiles/nbody.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/soham/projects/nbody-sim/build",
+  "command": "/usr/bin/clang  -I/Users/soham/projects/nbody-sim/external/glad/include -I/Users/soham/projects/nbody-sim/include -isystem /opt/homebrew/include -g -arch arm64 -o CMakeFiles/nbody.dir/external/glad/src/glad.c.o -c /Users/soham/projects/nbody-sim/external/glad/src/glad.c",
+  "file": "/Users/soham/projects/nbody-sim/external/glad/src/glad.c",
+  "output": "CMakeFiles/nbody.dir/external/glad/src/glad.c.o"
+}
+]
