@@ -47,7 +47,8 @@ This project focuses on simulation correctness and numerical behavior:
 
 ## Preview
 
-(Add a screenshot or GIF here)
+[nbody-sim-demo-img.pdf](https://github.com/user-attachments/files/26093670/nbody-sim-demo-img.pdf)
+
 
 ---
 
